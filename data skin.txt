@@ -13,7 +13,7 @@
         
         
       "banner_type":"yandex",
-      "inter_type":"yandex",
+      "inter_type":"admob",
       "native_type":"yandex",
       "reward_type":"yandex",
       
@@ -29,8 +29,8 @@
 
       "openapp_admob":"ca-app-pub-3940256099942544/3419835294",
        "banner_admob":"ca-app-pub-3940256099942544/6300978111",
-      "native_admob":"ca-app-pub-3940256099942544/2247696110",
-      "interstitial_admob":"ca-app-pub-3940256099942544/1033173712",
+      "native_admob":"ca-app-pub-3873261259983361/7406322198",
+      "interstitial_admob":"ca-app-pub-3873261259983361/7468803891",
       "rewarde_admob":"R-M-2098281-4",
 
       "applovin_banner":"R-M-DEMO-300x50",
