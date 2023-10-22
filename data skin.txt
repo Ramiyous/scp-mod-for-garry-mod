@@ -125,7 +125,7 @@
      
        "title": "Workshop for Garry's Mod ",
       "image": "https://play-lh.googleusercontent.com/K-sDGkQX6UhaAYl8MFqRHHDGF5wG3sEUB1blb38h98kxLOvu-u9SR6prW0CAgW0HOo0=w240-h480-rw",
-      "url": "https://play.google.com/store/apps/details?hl=ru&gl=ru&id=com.mobileapk.garrysgaming"
+      "url": "https://play.google.com/store/apps/details?id=com.worshopgarrys.modapk"
 
       
     },
@@ -133,7 +133,7 @@
         
        "title": "Workshop for Garry's Mod ",
       "image": "https://play-lh.googleusercontent.com/K-sDGkQX6UhaAYl8MFqRHHDGF5wG3sEUB1blb38h98kxLOvu-u9SR6prW0CAgW0HOo0=w240-h480-rw",
-      "url": "https://play.google.com/store/apps/details?hl=ru&gl=ru&id=com.mobileapk.garrysgaming"
+      "url": "https://play.google.com/store/apps/details?id=com.worshopgarrys.modapk"
 
 
       
@@ -172,7 +172,7 @@
       
        "title": "Workshop for Garry's Mod ",
       "image": "https://play-lh.googleusercontent.com/K-sDGkQX6UhaAYl8MFqRHHDGF5wG3sEUB1blb38h98kxLOvu-u9SR6prW0CAgW0HOo0=w240-h480-rw",
-      "url": "https://play.google.com/store/apps/details?hl=ru&gl=ru&id=com.mobileapk.garrysgaming"
+      "url": "https://play.google.com/store/apps/details?id=com.worshopgarrys.modapk"
 
 
     }
